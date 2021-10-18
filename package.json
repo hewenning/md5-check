@@ -1,0 +1,26 @@
+{
+    "name": "md5-check",
+    "version": "0.0.3",
+    "author": {
+        "name": "hewenning"
+    },
+    "description": "MD5 check duplicate files.",
+    "main": "src/Main.js",
+    "private": false,
+    "scripts": {
+        "dev": "",
+        "build": ""
+    },
+    "dependencies": {
+        "commander": "^8.2.0",
+        "prompt": "^1.2.0",
+        "typescript": "^4.4.3"
+    },
+    "devDependencies": {
+        "@types/node": "^16.10.3"
+    },
+    "repository": {
+       "type": "git",
+        "url": "https://github.com/hewenning/md5-check"
+    }
+}
